@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 case "$PACKER_BUILDER_TYPE" in 
 
 virtualbox-iso|virtualbox-ovf) 
